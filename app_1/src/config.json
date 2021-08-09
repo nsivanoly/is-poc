@@ -1,0 +1,6 @@
+{
+    "clientID": "Rtc6J_CyhQK1eHR442AcSLwCi7Ua",
+    "serverOrigin": "https://localhost:9445",
+    "signInRedirectURL": "https://localhost:3001",
+    "signOutRedirectURL": "https://localhost:3001"
+}
